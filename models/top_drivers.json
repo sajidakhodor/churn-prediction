@@ -1,0 +1,42 @@
+[
+  {
+    "feature":"Contract_Two year",
+    "mean_abs_shap":0.6136709452
+  },
+  {
+    "feature":"tenure",
+    "mean_abs_shap":0.5176095963
+  },
+  {
+    "feature":"InternetService_Fiber optic",
+    "mean_abs_shap":0.3049012423
+  },
+  {
+    "feature":"Contract_One year",
+    "mean_abs_shap":0.2769862115
+  },
+  {
+    "feature":"MonthlyCharges",
+    "mean_abs_shap":0.2386363298
+  },
+  {
+    "feature":"PaymentMethod_Electronic check",
+    "mean_abs_shap":0.199177295
+  },
+  {
+    "feature":"TotalCharges",
+    "mean_abs_shap":0.1736830771
+  },
+  {
+    "feature":"InternetService_No",
+    "mean_abs_shap":0.1338279843
+  },
+  {
+    "feature":"PaperlessBilling",
+    "mean_abs_shap":0.130279839
+  },
+  {
+    "feature":"OnlineSecurity_Yes",
+    "mean_abs_shap":0.1137616783
+  }
+]
