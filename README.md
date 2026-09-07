@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer churn predictor
 
 Predicts whether a telecom customer is likely to churn, explains *why* using SHAP,
@@ -132,3 +133,7 @@ churn-app/
 │   └── explain.py           # SHAP global + per-customer explanations
 └── requirements.txt
 ```
+=======
+# churn-prediction
+Customer churn predictor with SHAP explainability, deployed as a Streamlit app
+>>>>>>> 54e9ba43b219c89f9f5454c6432a15047e5d86c7
