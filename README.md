@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sajida-churn-prediction.streamlit.app/)
+**Live demo:** https://sajida-churn-prediction.streamlit.app/
+
 # Customer churn predictor
 
 Predicts whether a telecom customer is likely to churn, explains *why* using SHAP,
@@ -133,7 +135,3 @@ churn-app/
 │   └── explain.py           # SHAP global + per-customer explanations
 └── requirements.txt
 ```
-=======
-# churn-prediction
-Customer churn predictor with SHAP explainability, deployed as a Streamlit app
->>>>>>> 54e9ba43b219c89f9f5454c6432a15047e5d86c7
